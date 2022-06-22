@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\bin\Debug\net6.0\Revisando.exe
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\bin\Debug\net6.0\Revisando.deps.json
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\bin\Debug\net6.0\Revisando.runtimeconfig.json
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\bin\Debug\net6.0\Revisando.dll
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\bin\Debug\net6.0\Revisando.pdb
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.dll
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\refint\Revisando.dll
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.pdb
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\Revisando.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Arquivos\Estudos\Revisando\obj\Debug\net6.0\ref\Revisando.dll
